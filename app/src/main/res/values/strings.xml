@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CameraAndImageCompression</string>
+    <!-- Preference framework strings. -->
+    <string name="no">Cancel</string>
+    <string name="Permission">Permission Required</string>
+    <string name="read_sms_permission">Read Phone State permission is necessary</string>
+</resources>
